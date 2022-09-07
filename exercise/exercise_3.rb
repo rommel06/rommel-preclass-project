@@ -14,4 +14,4 @@ def who_is_adult(ages)
   return adults
 end
 
-print who_is_adult([19, 20, 23, 35, 51])
+p who_is_adult([19, 20, 23, 35, 51])
